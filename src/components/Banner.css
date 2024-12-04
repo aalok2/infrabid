@@ -1,0 +1,36 @@
+.banner {
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    width: 1440px;
+    height: 200px;
+    background: #FFFFFF;
+}
+
+.banner h1 {
+    font-family: Clash Grotesk Variable;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #033F59;
+    position: relative;
+    left :27px;
+}
+
+.banner h1 span {
+    font-family: Clash Grotesk Variable;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: orange;
+}
+/* Group 2694 */
+
+/* Main home page */
+/* Group 2694 */
