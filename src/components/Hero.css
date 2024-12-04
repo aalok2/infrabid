@@ -64,12 +64,12 @@
 }
 
 .header .nav a:hover {
-    color: orange;
+    color:#E1561A;;
 }
 
 .header .signin-button {
     padding: 10px 20px;
-    background-color: orange;
+    background-color:#E1561A;;
     border: none;
     color: white;
     cursor: pointer;
@@ -78,7 +78,7 @@
 }
 
 .header .signin-button:hover {
-    background-color: darkorange;
+    background-color:#E1561A;;
 }
 
 
@@ -121,7 +121,7 @@
 }
 
 .hero-text span {
-    color: orange;
+    color:#E1561A;
     /* Set text color to orange */
     font-family: 'Clash Grotesk Variable', sans-serif;
     /* Apply the custom font */
@@ -170,5 +170,5 @@
 }
 
 .hero-buttons button:hover {
-    background-color: darkorange;
+    background-color: #E1561A;;
 }
