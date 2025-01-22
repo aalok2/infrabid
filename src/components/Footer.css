@@ -1,0 +1,92 @@
+.footer {
+    background-color: #152938;
+    /* Dark blue background */
+    color: #fff;
+    /* White text */
+    padding: 20px 50px;
+    /* Outer spacing */
+    display: flex;
+    justify-content: space-between;
+    /* Evenly space the sections */
+    align-items: flex-start;
+    gap: 40px;
+    /* Space between sections */
+}
+
+.footer-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    /* Space between logo and text */
+}
+
+.footer-logo img {
+    width: 40px;
+    /* Logo size */
+    height: 40px;
+    object-fit: contain;
+}
+
+.footer-logo p {
+    margin: 0;
+    font-size: 14px;
+    color: #ccc;
+    /* Slightly lighter text for copyright */
+}
+
+.footer-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* Space between links within a section */
+}
+
+.footer-section h4 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #b0b0b0;
+    /* Subtle header color */
+}
+
+.footer-section a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer-section a:hover {
+    color: #007bff;
+    /* Hover effect */
+}
+
+.footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    right:30px
+}
+
+.footer-contact a {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    /* Space between icon and text */
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer-contact a:hover {
+    color: #007bff;
+}
+
+.footer-contact i {
+    font-size: 16px;
+    /* Icon size */
+    color: #fff;
+}   

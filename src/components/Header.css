@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    /* background-color: black; */
+    color: white;
+    height:60px;
+}
+
+.nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.sign-in {
+    background-color:#E1561A;;
+    border: none;
+    padding: 8px 15px;
+    color: white;
+    cursor: pointer;
+}
